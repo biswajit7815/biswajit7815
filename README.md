@@ -80,8 +80,13 @@
 ![AWS]
 ![Docker]
 ![Kubernates]
-- Deployed a **3-tier web application** (frontend, backend, database) on **AWS**  
-- Used **EC2, security group, ** with **Load Balancer & Auto Scaling** for high availability   
+ Tech Stack } --> {its very important for flow the deployment }
+[[[ pull the github repo --> created the docker file --> build the docker --> push to my dockerhub (biswajit7815) --> created the yml file like (pv ,pvc ,frontend ,
+backend , service , deployment ,namwspace ,ect) --> then kubectl apply -f <yml file name > ---> after i will port-forwarding all the deployment.yml (like backend , frontend , database ) ---> then access the ip address then it will work properly ]]]]]
+
+Successfully Deployed a 3-Tier Full-Stack Chat Application on Kubernetes! 
+I’m excited to share that I’ve completed the deployment of a full-stack Chat Application using Kubernetes 
+
 🔗 [View Repository](https://github.com/biswajit7815/full-stack_chatApp.git)
 
 ---
