@@ -1,43 +1,51 @@
-<h1 align="center">Hi 👋, I'm Biswajit Behera</h1>
-<h3 align="center"><h3 align="center"> 🚀 DevOps & Cloud Engineer | AWS | Docker | Kubernetes | CI/CD | Terraform </h3></h3>
+# 💫 Hi 👋, I'm Biswajit Behera
+**DevOps Enthusiast | AWS Cloud Practitioner | Linux | CI/CD (Jenkins) | Docker | Kubernetes (K8s) | Automation with Python | Helm | Ansible | Terraform |**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit7815&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit7815" /> </p>
+Email Me 👉 ✉️ **biswajitbehera1868@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajit7815" alt="biswajit7815" /></a> </p>
+- 🔭 **I’m currently working on:** Automating CI/CD pipelines and deploying containerized applications using Docker & Kubernetes
+- 🌱 **I’m currently learning:** Advanced AWS services, Terraform, and Kubernetes Helm charts
+- 👯 **I’m looking to collaborate on:**Open-source DevOps projects and cloud automation workflows
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:**DevOps tools, AWS, CI/CD, Docker, Jenkins, and automation with Python
+- 📫 **How to reach me:** biswajitbehera1868@gmail.com
+- 😄 **Pronouns:** : He/Him
+- ⚡ **Fun fact:**I automate everything I can — even my coffee brewing process ☕💻
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- -->This project demonstrates a fully automated DevOps workflow — from development to deployment using Jenkins Declarative Pipeline integrated with Docker and AWS EC2. Development Phase (Code Creation & Version Control) -->Actors: Developer, GitHub -->The developer writes and tests the Django application code locally. -->Once ready, the code is pushed to a GitHub repository. -->GitHub acts as the central version control system, maintaining all commits and branches. CI/CD Automation (Jenkins): -->Tool: Jenkins -->Jenkins is configured with a webhook linked to GitHub. -->Whenever new code is pushed, GitHub triggers Jenkins automatically. -->Jenkins runs a Declarative Pipeline (Jenkinsfile) which defines the entire build → test → deploy flow. Jenkins Pipeline performs:  Continuous Integration (CI)  Pulls the latest code from GitHub.  Builds and tags a Docker image of the Django application.  Runs tests and linting (if configured).  Continuous Deployment (CD)  Pushes the built image to Docker Hub.  Connects to the AWS EC2 instance via SSH and pulls the latest Docker image.  Stops any running container and deploys the updated container automatically. Containerization Phase Tools: Docker, Docker Hub • Jenkins uses Docker to build a lightweight image of the Django app. • The image contains all dependencies (python, Django, requirements.txt, etc.). • The image is tagged (for example my-notes-app:v1.0) and pushed to Docker Hub, serving as a central image registry. Deployment Phase Tool: AWS EC2 • The EC2 instance acts as the deployment server. • Jenkins or a manual process pulls the Docker image from Docker Hub onto the EC2 instance. • A container is created and run using: docker run -d -p 8000:8000 biswajit7815/my-notes-app:latest The application is now live and accessible via \http://<your-ec2-public-ip>:8000 Pipeline Type It defines stages such as: -->Checkout Code -->Build Docker Image -->Push Image to Docker Hub -->Deploy to EC2 [https://app.eraser.io/workspace/hW3KemzTybaVmPMvQzBs](https://github.com/biswajit7815/django-notes-app)
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=biswajit7815&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Socials:
 
-- 🌱 I’m currently learning **Advanced Terraform, AWS services, and Infrastructure as Code (IaC)** to enhance automation and scalability.**
 
-- 🔭 I’m completed the project { Tech Stack } --> {its very important for flow the deployment } [[[ pull the github repo --> created the docker file --> build the docker --> push to my dockerhub (biswajit7815) --> created the yml file like (pv ,pvc ,frontend , backend , service , deployment ,namwspace ,ect) --> then kubectl apply -f <yml file name > ---> after i will port-forwarding all the deployment.yml (like backend , frontend , database ) ---> then access the ip address then it will work properly ]]]]] Successfully Deployed a 3-Tier Full-Stack Chat Application on Kubernetes! I’m excited to share that I’ve completed the deployment of a full-stack Chat Application using Kubernetes. 🔹 Architecture Overview: Frontend: React.js (containerized and deployed as a Kubernetes Deployment) Backend: Node.js with Express (handles real-time messaging and APIs) Database: MongoDB (stateful component managed within the cluster) 🔹{ What I Did: } Created Docker images for each tier (frontend, backend, database). Wrote Kubernetes yml files like -->Deployments, Services, and Namespace. like K8s . Configured Minikube to run the cluster locally. Verified communication between pods using internal cluster networking. Tested full functionality — then put my credentials and created a user account, logged in successfully, and verified data stored in MongoDB. [full-stack-chat](https://github.com/biswajit7815/full-stack_chatApp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/biswajit7815](https://github.com/biswajit7815)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajitbehera1868@gmail.com) 
 
-- 📝 I regularly write articles on [DevOps best practices, Cloud Automation, and CI/CD implementation](DevOps best practices, Cloud Automation, and CI/CD implementation)
+<!-- Snake Game Repo View -->
 
-- 💬 Ask me about **Docker, Kubernetes, Jenkins, AWS, CI/CD Pipelines, and Cloud Automation**
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-- 📫 How to reach me **biswajitbehera1868@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=biswajit7815&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=biswajit7815&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit7815&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📄 Know about my experiences [https://github.com/biswajit7815/biswajit7815/blob/main/Biswajit_behera_cv.pdf](https://github.com/biswajit7815/biswajit7815/blob/main/Biswajit_behera_cv.pdf)
 
-- ⚡ Fun fact **I believe in “Automate Everything” — if it can be scripted, it should be.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/biswajit-behera-1b564031a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/biswajit-behera-1b564031a" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=biswajit7815&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=biswajit7815&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/biswajit behera"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biswajit behera" /></a><a href="https://ko-fi.com/biswajit behera"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="biswajit behera" /></a></p><br><br>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/biswajit7815) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit7815&show_icons=true&locale=en&layout=compact" alt="biswajit7815" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit7815&show_icons=true&locale=en" alt="biswajit7815" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit7815&" alt="biswajit7815" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
