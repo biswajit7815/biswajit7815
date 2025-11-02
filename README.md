@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=180&section=header&text=🚀%20Hi,%20I'm%20Biswajit%20Behera%20💻&fontSize=35&fontColor=00BFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF,7B68EE,8A2BE2&height=300&section=header&text=🚀%20Hi,%20I'm%20Biswajit%20Behera%20💻&fontSize=55&fontColor=FFFFFF&animation=fadeIn" />
+
 
 
 
