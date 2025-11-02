@@ -1,15 +1,22 @@
-# 💫 Hi 👋, I'm Biswajit Behera  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,00BFFF&height=180&section=header&text=🚀%20Hi,%20I'm%20Biswajit%20Behera%20💻&fontSize=35&fontColor=FFFFFF&animation=twinkling" />
+
 **DevOps Enthusiast | AWS Cloud Practitioner | Linux | CI/CD (Jenkins) | Docker | Kubernetes (K8s) | Automation with Python | Helm | Ansible | Terraform |**  
 
 📧 **Email Me:** [biswajitbehera1868@gmail.com](mailto:biswajitbehera1868@gmail.com)  
 
 <div align="center">
-  <a href="https://github.com/biswajit7815/biswajit7815/blob/main/Biswajit_behera_cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Biswajit Behera Resume"/>
-  </a>
+
+---
+
+<a href="https://github.com/biswajit7815/biswajit7815/blob/main/Biswajit_behera_cv.pdf" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-7B68EE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+       alt="Biswajit Behera Resume"
+       style="box-shadow: 0 4px 20px rgba(0, 0, 255, 0.5), 0 0 15px rgba(75, 0, 130, 0.7); border-radius: 12px;"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,00BFFF&height=120&section=footer"/>
+
 </div>
-
-
 💬 For Collaboration, Projects, or Tech Discussions 😊  
 
 ---
