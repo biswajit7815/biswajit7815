@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,00BFFF&height=180&section=header&text=🚀%20Hi,%20I'm%20Biswajit%20Behera%20💻&fontSize=35&fontColor=FFFFFF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=180&section=header&text=🚀%20Hi,%20I'm%20Biswajit%20Behera%20💻&fontSize=35&fontColor=00BFFF&animation=fadeIn" />
 
 **DevOps Enthusiast | AWS Cloud Practitioner | Linux | CI/CD (Jenkins) | Docker | Kubernetes (K8s) | Automation with Python | Helm | Ansible | Terraform |**  
 
