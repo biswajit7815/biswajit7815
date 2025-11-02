@@ -32,6 +32,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@biswajitbehera2542)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajitbehera1868@gmail.com)
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ---
 
 ## 💻 Tech Stack
@@ -82,10 +89,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
