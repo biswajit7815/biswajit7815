@@ -2,6 +2,8 @@
 **DevOps Enthusiast | AWS Cloud Practitioner | Linux | CI/CD (Jenkins) | Docker | Kubernetes (K8s) | Automation with Python | Helm | Ansible | Terraform |**  
 
 📧 **Email Me:** [biswajitbehera1868@gmail.com](mailto:biswajitbehera1868@gmail.com)  
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/biswajit7815/your-repo-name/blob/main/assets/Biswajit_Behera_CV.pdf)
+
 💬 For Collaboration, Projects, or Tech Discussions 😊  
 
 ---
