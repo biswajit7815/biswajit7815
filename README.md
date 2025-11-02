@@ -62,6 +62,52 @@
 
 ---
 
+## 🚧 My DevOps Projects
+
+### 🐳 1. Notes App with Docker & Jenkins CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+- Built a full-stack **Notes App** using **Django + React**, containerized with Docker  
+- Automated build & deployment pipeline using **Jenkins** and **GitHub Webhooks**  
+- Hosted on **AWS EC2** with **Nginx** as a reverse proxy  
+🔗 [View Repository](https://github.com/biswajit7815/notes-app-docker-ci-cd)
+
+---
+
+### ☁️ 2. AWS Three-Tier Architecture Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)
+- Deployed a **3-tier web application** (frontend, backend, database) on **AWS**  
+- Used **EC2, RDS, and S3** with **Load Balancer & Auto Scaling** for high availability  
+- Managed infrastructure using **Terraform** and **Ansible**  
+🔗 [View Repository](https://github.com/biswajit7815/aws-three-tier-infra)
+
+---
+
+### ⚙️ 3. Kubernetes Microservices Setup
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+- Built a **microservices-based architecture** using **Kubernetes (K8s)**  
+- Deployed **backend, frontend, and MongoDB** services with **Helm charts**  
+- Implemented **monitoring with Prometheus & Grafana**  
+🔗 [View Repository](https://github.com/biswajit7815/kubernetes-microservices-demo)
+
+---
+
+### 🐍 4. Python Automation Scripts
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+- Automated routine DevOps tasks using **Python & Bash scripting**  
+- Created tools for **log rotation**, **server monitoring**, and **Docker cleanup**  
+🔗 [View Repository](https://github.com/biswajit7815/python-devops-automation)
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=biswajit7815&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -86,6 +132,9 @@
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/biswajit7815)
+
+
+
 
 ---
 
